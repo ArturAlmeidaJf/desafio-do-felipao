@@ -3,7 +3,7 @@
 //console.log(`Oi, meu nome é ${nome} e tenho ${idade}`);
 
 let nome = "Miguel";
-let xp = "10000";
+let xp = "9500";
 let nivel = "";
 
 if (xp < 1000) {
